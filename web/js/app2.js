@@ -16,7 +16,7 @@ $(document).ready(function() {
 
 	$("#meng").animate({
 			width:'988px',
-			height:'9500px'
+			height:'22800px'
 		},1000,'swing'
 	);
 // 任何需要执行的js特效 
